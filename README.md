@@ -1,3 +1,5 @@
+![code coverage badge](https://github.com/Baron-Thielemans/learn-cicd-starter.git/actions/workflow/ci.yaml)
+
 # CAREFUL
 
 boot.dev somehow belive that I'm using GUI. WTF?
