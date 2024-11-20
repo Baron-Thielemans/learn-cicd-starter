@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/Baron-Thielemans/learn-cicd-starter.git/actions/workflow/ci.yaml)
+![code coverage badge](https://github.com/Baron-Thielemans/learn-cicd-starter.git/actions/workflow/ci.yaml/badge.svg)
 
 # CAREFUL
 
