@@ -1,8 +1,12 @@
-# learn-cicd-starter (Notely)
+# CAREFUL
+
+boot.dev somehow belive that I'm using GUI. WTF?
+
+## learn-cicd-starter (Notely)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
-## Local Development
+### Local Development
 
 Make sure you're on Go version 1.22+.
 
